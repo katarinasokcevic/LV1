@@ -2,7 +2,7 @@
 
 int main() {
 
-	printf("Zovem se Katarina Sokcevic");
+	printf("Zovem se Katarina Sokcevic i PROMJENILA SAM");
 
 	printf("dobro je\n");
 
